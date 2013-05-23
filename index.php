@@ -13,7 +13,7 @@
     </head>
     <body>
 
-        <h1>Unicode Favs</h1>
+        <h1>Unicode</h1>
         
         <script src="js/main.js"></script>
     </body>
