@@ -13,7 +13,32 @@
     </head>
     <body>
 
-        <h1>Unicode</h1>
+        <h1>Unicode Favourites</h1>
+        <p class="subtitle">A little site where I save my favourite Unicode characters</p>
+        <aside>Watch this project on <a href="">gitHub</a></aside>
+
+        <ul class="content">
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
         
         <script src="js/main.js"></script>
     </body>
