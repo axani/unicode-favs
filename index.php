@@ -15,7 +15,7 @@
 
         <h1>Unicode Favourites</h1>
         <p class="subtitle">A little site where I save my favourite Unicode characters</p>
-        <aside>Watch this project on <a href="">gitHub</a></aside>
+        <aside>Watch this project on <a href="https://github.com/axani/unicode-favs">gitHub</a></aside>
 
         <ul class="content">
             <li></li>
