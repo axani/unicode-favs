@@ -10,36 +10,20 @@
         <meta name="description" content="A little site where I save my favourite Unicode characters">
         <meta name="viewport" content="width=device-width">
         <link rel="stylesheet" href="css/main.css">
+
+        <script type="text/javascript" src="//use.typekit.net/mro0iyz.js"></script>
+        <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
     </head>
     <body>
 
         <h1>Unicode Favourites</h1>
         <p class="subtitle">A little site where I save my favourite Unicode characters</p>
-        <aside>Watch this project on <a href="https://github.com/axani/unicode-favs">gitHub</a></aside>
+        <aside>Watch this project on <a href="https://github.com/axani/unicode-favs">GitHub</a></aside>
 
         <ul class="content">
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
+           <li>⊙</li>
         </ul>
-        
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" ></script>
         <script src="js/main.js"></script>
     </body>
 </html>
